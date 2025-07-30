@@ -1,0 +1,16 @@
+{
+  "name": "chaiaurbackend",
+  "version": "1.0.0",
+  "description": "A backend at Chai Aur Code",
+  "keywords": [
+    "Javascript",
+    "Backend"
+  ],
+  "license": "ISC",
+  "author": "Rajvardhan Patil",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
